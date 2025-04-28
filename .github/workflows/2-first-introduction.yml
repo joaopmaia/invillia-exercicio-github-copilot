@@ -58,7 +58,11 @@ jobs:
       - name: Get response templates
         uses: actions/checkout@v4
         with:
+<<<<<<< HEAD
           repository: skills/response-templates
+=======
+          repository: Copilot-Workshop-Invillia/response-templates
+>>>>>>> dd563bf (Initial commit)
           path: skills-response-templates
 
       - name: Update comment - checking work
@@ -76,7 +80,11 @@ jobs:
         run: |
           # File and expected phrase
           file="src/app.py"
+<<<<<<< HEAD
           keyphrase="Validate student is not already signed up"
+=======
+          keyphrase="# Validar se o aluno já está inscrito"
+>>>>>>> dd563bf (Initial commit)
 
           # Fail the workflow if the file content is missing
           if ! grep -q "$keyphrase" "$file"; then
@@ -144,7 +152,11 @@ jobs:
       - name: Get response templates
         uses: actions/checkout@v4
         with:
+<<<<<<< HEAD
           repository: skills/response-templates
+=======
+          repository: Copilot-Workshop-Invillia/response-templates
+>>>>>>> dd563bf (Initial commit)
           path: skills-response-templates
 
       - name: Create comment - add step content

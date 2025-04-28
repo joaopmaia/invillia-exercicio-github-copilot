@@ -4,11 +4,30 @@
   "forwardPorts": [8000],
   "postCreateCommand": "pip install -r requirements.txt",
   "customizations": {
+<<<<<<< HEAD
     "vscode": {
       "extensions": [
         "GitHub.copilot",
         "ms-python.python",
         "ms-python.debugpy"
+=======
+    "codespaces": {
+			"openFiles": [
+			  "README.md"
+			]
+		},
+    "vscode": {			
+      "settings": {
+          "workbench.editorAssociations": {
+            "*.md": "vscode.markdown.preview.editor"
+          }
+        },
+      "extensions": [
+        "GitHub.copilot",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "github.vscode-github-actions"
+>>>>>>> dd563bf (Initial commit)
       ]
     }
   }
