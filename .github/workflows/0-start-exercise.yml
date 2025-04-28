@@ -11,8 +11,18 @@ permissions:
   issues: write
 
 env:
+<<<<<<< HEAD
+<<<<<<< HEAD
+  EXERCISE_NAME: "Getting Started with GitHub Copilot"
+  INTRO_MESSAGE: "Welcome to the exciting world of GitHub Copilot! 🚀 In this exercise, you'll unlock the potential of this AI-powered coding assistant to accelerate your development process. Let's dive in and have some fun exploring the future of coding together! 💻✨"
+=======
   EXERCISE_NAME: "GitHub Copilot"
   INTRO_MESSAGE: "Bem-vindo ao empolgante mundo do GitHub Copilot! 🚀 Neste exercício, você vai explorar o potencial desse assistente de programação com inteligência artificial para acelerar seu processo de desenvolvimento. Vamos mergulhar nessa experiência e nos divertir explorando juntos o futuro da programação! 💻✨"
+>>>>>>> dd563bf (Initial commit)
+=======
+  EXERCISE_NAME: "GitHub Copilot"
+  INTRO_MESSAGE: "Bem-vindo ao empolgante mundo do GitHub Copilot! 🚀 Neste exercício, você vai explorar o potencial desse assistente de programação com inteligência artificial para acelerar seu processo de desenvolvimento. Vamos mergulhar nessa experiência e nos divertir explorando juntos o futuro da programação! 💻✨"
+>>>>>>> main
   STEP_1_FILE: ".github/steps/1-preparing.md"
 
 jobs:
@@ -57,7 +67,15 @@ jobs:
           sed -i "s|$target|$replacement|g" README.md
 
           # Change color from green to gray
+<<<<<<< HEAD
+<<<<<<< HEAD
+          target=Copy_Exercise-008000
+=======
           target=Copiar_Exercício-008000
+>>>>>>> dd563bf (Initial commit)
+=======
+          target=Copiar_Exercício-008000
+>>>>>>> main
           replacement=Copy_Exercise-AAA
           sed -i "s|$target|$replacement|g" README.md
 
@@ -69,7 +87,15 @@ jobs:
           sed -i "s|$target|$replacement|g" README.md
 
           # Change color from gray to green
+<<<<<<< HEAD
+<<<<<<< HEAD
+          target=Start_Exercise-AAA
+=======
           target=Iniciar_Exercício-AAA
+>>>>>>> dd563bf (Initial commit)
+=======
+          target=Iniciar_Exercício-AAA
+>>>>>>> main
           replacement=Start_Exercise-008000
           sed -i "s|$target|$replacement|g" README.md
 
@@ -103,7 +129,15 @@ jobs:
       - name: Get response templates
         uses: actions/checkout@v4
         with:
+<<<<<<< HEAD
+<<<<<<< HEAD
+          repository: skills/response-templates
+=======
           repository: Copilot-Workshop-Invillia/response-templates
+>>>>>>> dd563bf (Initial commit)
+=======
+          repository: Copilot-Workshop-Invillia/response-templates
+>>>>>>> main
           path: skills-response-templates
 
       - name: Configure Git user
@@ -146,7 +180,15 @@ jobs:
       - name: Get response templates
         uses: actions/checkout@v4
         with:
+<<<<<<< HEAD
+<<<<<<< HEAD
+          repository: skills/response-templates
+=======
           repository: Copilot-Workshop-Invillia/response-templates
+>>>>>>> dd563bf (Initial commit)
+=======
+          repository: Copilot-Workshop-Invillia/response-templates
+>>>>>>> main
           path: skills-response-templates
 
       - name: Configure Git user

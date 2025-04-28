@@ -58,7 +58,15 @@ jobs:
       - name: Get response templates
         uses: actions/checkout@v4
         with:
+<<<<<<< HEAD
+<<<<<<< HEAD
+          repository: skills/response-templates
+=======
           repository: Copilot-Workshop-Invillia/response-templates
+>>>>>>> dd563bf (Initial commit)
+=======
+          repository: Copilot-Workshop-Invillia/response-templates
+>>>>>>> main
           path: skills-response-templates
 
       - name: Update comment - checking work
@@ -184,7 +192,15 @@ jobs:
       - name: Get response templates
         uses: actions/checkout@v4
         with:
+<<<<<<< HEAD
+<<<<<<< HEAD
+          repository: skills/response-templates
+=======
           repository: Copilot-Workshop-Invillia/response-templates
+>>>>>>> dd563bf (Initial commit)
+=======
+          repository: Copilot-Workshop-Invillia/response-templates
+>>>>>>> main
           path: skills-response-templates
 
       - name: Create comment - add step content
