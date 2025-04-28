@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Review
 
 _Congratulations, you've completed this exercise and learned a lot about GitHub Copilot!_
@@ -29,6 +30,8 @@ Check out these resources to learn more about GitHub Copilot :
 - See what other features are available [GitHub Copilot Features](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features).
 - Take a look at the [GitHub Copilot Documentation](https://docs.github.com/en/copilot).
 =======
+=======
+>>>>>>> main
 ## Revisão
 
 _Parabéns, você concluiu este exercício e aprendeu bastante sobre o GitHub Copilot!_
@@ -59,4 +62,7 @@ Veja esses recursos adicionais para aprender mais sobre o GitHub Copilot:
 - Descubra outras funcionalidades disponíveis em [GitHub Copilot Features](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features).
 - Consulte a [Documentação do GitHub Copilot](https://docs.github.com/en/copilot).
 
+<<<<<<< HEAD
 >>>>>>> dd563bf (Initial commit)
+=======
+>>>>>>> main

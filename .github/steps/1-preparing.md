@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Step 1: Hello Copilot
 
 Welcome to your **"Getting Started with GitHub Copilot"** exercise! :robot:
@@ -128,6 +129,8 @@ If you don't get feedback, here are some things to check:
 - Make sure your created the branch with the exact name `accelerate-with-copilot`. No prefixes or suffixes.
 - Make sure the branch was indeed published to your repository.
 =======
+=======
+>>>>>>> main
 
 ## Passo 1: Olá, Piloto !
 
@@ -210,6 +213,9 @@ Agora que estamos familiarizados com o app e sabemos que funciona, vamos pedir a
 Se você não recebeu feedback, confira:
 - O nome exato da branch criada: `accelerate-with-copilot`.
 - Se a branch foi realmente publicada em seu repositório.
+<<<<<<< HEAD
 >>>>>>> dd563bf (Initial commit)
+=======
+>>>>>>> main
 
 </details>

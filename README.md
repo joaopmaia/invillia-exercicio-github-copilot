@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with GitHub Copilot
 
 ![](https://github.com/Copilot-Workshop-Invillia/skills-getting-started-with-github-copilot/actions/workflows/1-preparing.yml/badge.svg)
@@ -60,6 +61,8 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 =======
+=======
+>>>>>>> main
 # GitHub Copilot
 
 ![](https://github.com/joaopmaia/invillia-exercicio-github-copilot/actions/workflows/1-preparing.yml/badge.svg)
@@ -117,5 +120,9 @@ Neste exercício, você irá:
 
 Obtenha ajuda: [Publique em nosso fórum de discussão](https://github.com/orgs/Copilot-Workshop-Invillia/discussions/categories/getting-started-with-github-copilot) &bull; [Confira a página de status do GitHub](https://www.githubstatus.com/)
 
+<<<<<<< HEAD
 &copy; 2025 GitHub &bull; [Código de Conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [Licença MIT](https://gh.io/mit)
 >>>>>>> dd563bf (Initial commit)
+=======
+&copy; 2025 GitHub &bull; [Código de Conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [Licença MIT](https://gh.io/mit)
+>>>>>>> main

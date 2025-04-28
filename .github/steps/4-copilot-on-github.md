@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Step 4: Using GitHub Copilot within a pull request
 
 Congratulations! You are finished with coding for this exercise (and VS Code). Now it's time to merge our work. :tada: To wrap up, let's learn about two limited-access Copilot features that can speed up our pull requests!
@@ -43,6 +44,8 @@ Both **pull request summaries** and **copilot review** have limited access, so t
 
 1. Wait a moment for Mona to check your work, provide feedback, and post a final review of this lesson!
 =======
+=======
+>>>>>>> main
 ## Passo 4: Usando o GitHub Copilot em um Pull Request
 
 Parabéns! Você terminou de programar este exercício (e com o VS Code). Agora é hora de integrar nosso trabalho. :tada: Para finalizar, vamos conhecer dois recursos do Copilot com acesso limitado que podem acelerar nossos Pull Requests!
@@ -87,4 +90,7 @@ Ambos os recursos, **resumos de pull requests** e **revisão do Copilot**, têm 
 
 6. Aguarde um instante para verificar seu trabalho, fornecer feedback e postar uma revisão final desta lição!
 
+<<<<<<< HEAD
 >>>>>>> dd563bf (Initial commit)
+=======
+>>>>>>> main

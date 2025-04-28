@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Step 2: Getting work done with Copilot
 
 In the previous step, GitHub Copilot was able to help us onboard to the project. That alone is a huge time saver, but now let's get some work done!
@@ -198,6 +199,8 @@ If you don't get feedback, here are some things to check:
 
 </details>
 =======
+=======
+>>>>>>> main
 ## Passo 2: Trabalhando com o Copilot
 
 Na etapa anterior, o GitHub Copilot nos ajudou a entender o projeto. Só isso já economiza muito tempo, mas agora vamos colocar a mão na massa!
@@ -275,4 +278,7 @@ Se não houver feedback, verifique:
 
 </details>
 
+<<<<<<< HEAD
 >>>>>>> dd563bf (Initial commit)
+=======
+>>>>>>> main

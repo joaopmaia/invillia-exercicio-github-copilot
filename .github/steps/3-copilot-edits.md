@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Step 3: Getting work done even _faster_ with Copilot Edits
 
 In our previous steps, we used features of Copilot that require more hands-on guidance and they produced mostly localized results. Now, we will explore Copilot Edits, a feature that allows working more holistically on our repo.
@@ -30,6 +31,8 @@ In our previous steps, we used features of Copilot that require more hands-on gu
 
 1. Open the files related to our webpage then drag each editor window (or file) to the chat panel, informing Copilot to use them as context.
 =======
+=======
+>>>>>>> main
 ## Passo 3: Trabalhando ainda _mais rápido_ com o Copilot Edits
 
 Nas etapas anteriores, utilizamos recursos do Copilot que exigem uma orientação mais próxima e produziram resultados mais localizados. Agora vamos explorar o Copilot Edits, um recurso que permite trabalhar de forma mais abrangente em nosso repositório.
@@ -60,12 +63,16 @@ Nas etapas anteriores, utilizamos recursos do Copilot que exigem uma orientaçã
    <img width="200" alt="imagem" src="https://github.com/user-attachments/assets/0b17c5bd-d03b-41b1-b97d-624fcbf8ccd1" />
 
 3. Abra os arquivos relacionados à página web e arraste cada janela do editor (ou arquivo) para o painel de chat, informando ao Copilot para usá-los como contexto:
+<<<<<<< HEAD
 >>>>>>> dd563bf (Initial commit)
+=======
+>>>>>>> main
 
    - `src/static/app.js`
    - `src/static/index.html`
    - `src/static/styles.css`
 
+<<<<<<< HEAD
 <<<<<<< HEAD
    > **Tip:** You can also use the **Attach files...** button to provide other sources of context items, like a GitHub issue, the entire codebase, or the results of a terminal window.
 
@@ -128,6 +135,8 @@ If you don't get feedback, here are some things to check:
 
 </details>
 =======
+=======
+>>>>>>> main
    > **Dica:** Você também pode usar o botão **Attach files...** para fornecer outras fontes de contexto, como uma issue do GitHub, a base de código completa ou os resultados de uma janela de terminal.
 
 4. Solicite ao Copilot atualizar o projeto para exibir os participantes atuais das atividades. Aguarde um momento para as sugestões aparecerem e serem aplicadas:
@@ -171,4 +180,7 @@ Se não receber feedback, verifique:
 
 </details>
 
+<<<<<<< HEAD
 >>>>>>> dd563bf (Initial commit)
+=======
+>>>>>>> main
