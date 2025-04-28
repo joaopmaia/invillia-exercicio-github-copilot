@@ -62,6 +62,18 @@ activities = {
         "schedule": "Mondays and Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 10,
         "participants": ["liam@mergington.edu", "isabella@mergington.edu"]
+    },
+    "Photography Club": {
+        "description": "Learn photography techniques and participate in photo walks",
+        "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+        "max_participants": 15,
+        "participants": ["charlotte@mergington.edu", "harper@mergington.edu"]
+    },
+    "Debate Team": {
+        "description": "Develop public speaking and argumentation skills",
+        "schedule": "Tuesdays and Thursdays, 4:30 PM - 6:00 PM",
+        "max_participants": 20,
+        "participants": ["jackson@mergington.edu", "grace@mergington.edu"]
     }
 }
 
